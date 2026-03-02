@@ -168,12 +168,11 @@ app.py (ponto de entrada)
 ## Dependências
 
 Principais bibliotecas:
-- streamlit
 - sqlite3
 - bcrypt
 - pandas
 - plotly
-- telnetlib2
+- telnetlib
 
 Veja todas em `requirements.txt`.
 
