@@ -24,7 +24,7 @@ Este sistema foi desenvolvido para facilitar o gerenciamento de dispositivos ONU
 - Visualizem potência e status dos dispositivos.
 - Gerenciem usuários e logs de operações.
 
-A interface é web, construída com Streamlit, e o backend utiliza SQLite para persistência dos dados.
+A interface web frontend, e o backend utiliza SQLite para persistência dos dados.
 
 ---
 
