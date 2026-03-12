@@ -43,7 +43,7 @@ app.py (ponto de entrada)
 ├── imagens (logo_icon.png, logoo.png, etc)
 ```
 
-- **Frontend:** Streamlit (Python)
+- **Frontend:** Flask (Python)
 - **Backend:** Python puro, SQLite, Telnet para comunicação com OLTs
 - **Banco de Dados:** SQLite (arquivo local `usuarios.db`)
 
